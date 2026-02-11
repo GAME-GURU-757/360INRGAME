@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://game-guru-757.github.io/360INRGAME/sitemap.xml
